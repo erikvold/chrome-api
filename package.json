@@ -1,0 +1,17 @@
+{
+  "name": "chrome-api",
+  "version": "1.0.0",
+  "description": "A stub for the chrome.* api",
+  "main": "index.js",
+  "keywords": [
+    "chrome",
+    "google"
+  ],
+  "author": "Erik Vold",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erikvold/chrome-api"
+  }
+}
+
